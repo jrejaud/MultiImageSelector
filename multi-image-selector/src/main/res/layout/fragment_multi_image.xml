@@ -18,7 +18,7 @@
 
     <TextView
         android:id="@+id/timeline_area"
-        tools:text="2015年4月1日"
+        tools:text="2015"
         android:textColor="#CDCECE"
         android:textSize="14sp"
         android:paddingLeft="10sp"
@@ -42,7 +42,7 @@
             android:paddingRight="16dp"
             android:layout_centerVertical="true"
             android:textColor="@color/folder_text_color"
-            tools:text="所有图片"
+            tools:text="All Photos"
             android:textSize="16sp"
             android:gravity="center_vertical"
             android:drawableRight="@drawable/text_indicator"
@@ -63,7 +63,7 @@
         <Button
             android:visibility="gone"
             android:id="@+id/preview"
-            tools:text="预览(1)"
+            tools:text="Preview(1)"
             android:paddingLeft="16dp"
             android:paddingRight="16dp"
             android:layout_alignParentRight="true"
