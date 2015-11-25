@@ -1,18 +1,10 @@
 # MultiImageSelector
 Image selector for Android device. Support single choice and multi-choice.
+English fork, with minor cosmetic changes
 
-English version, with minor cosmetic changes
-
-[中文文档](README_zh.md)
-
-###Example
-This Fork
+###Screenshot
 ![SelectEnglish](art/example_english.png)
 
-
-
-![Select1](art/select_1.png)
-Original Version
 
 -------------------
 
