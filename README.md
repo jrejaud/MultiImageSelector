@@ -1,6 +1,5 @@
 # MultiImageSelector
-Image selector for Android device. Support single choice and multi-choice.
-English fork, with minor cosmetic changes
+English language fork with minor cosmetic changes of [MultiImageSelector](https://github.com/lovetuzitong/MultiImageSelector), single/ multi image selector library for Android.
 
 ###Screenshot
 ![SelectEnglish](art/example_english.png)
